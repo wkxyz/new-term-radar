@@ -1,5 +1,9 @@
 # new-term-radar
 
+## Windows / macOS 开发接续
+
+先读 [跨设备说明](docs/CROSS_DEVICE.md)、[当前进度](STATUS.md) 和 [AI 项目规则](AGENTS.md)。运行环境、任务分支和换电脑步骤在跨设备说明中；项目原有功能、数据与发布约定继续见下文。
+
 [中文说明](README.zh-CN.md)
 
 A daily report of the names that are starting to surge in AI: new models, products, tools and repos, caught where they are said first, before they show up in keyword tools.
